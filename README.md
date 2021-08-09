@@ -9,6 +9,6 @@ This repository contains a brief Getting Started guide for trying out OpenShift 
 This installation provide basic instance of Openshift-Gitops, without different kind of configurazion that is possible if you decide to remove the default instance and re-install new one.
 Here a list of capability that re-install new instance, the operator is able to setup:
 Characters for bulleted lists:
-* **Server level**:  Autoscale, Ingress, Route, Service
-* **
+* **Server level**:  Autoscale, Ingress, Route, Service, Ha
+* **Rbac, Redis, Kustomize, Grafana, SSO, OIDC **
 
