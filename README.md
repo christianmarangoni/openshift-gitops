@@ -12,3 +12,5 @@ Characters for bulleted lists:
 * **Server level**:  Autoscale, Ingress, Route, Service, Ha
 * **Rbac, Redis, Kustomize, Grafana, SSO, OIDC**
 
+For do this delete the ezisting instance from 
+
