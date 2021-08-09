@@ -10,5 +10,5 @@ This installation provide basic instance of Openshift-Gitops, without different 
 Here a list of capability that re-install new instance, the operator is able to setup:
 Characters for bulleted lists:
 * **Server level**:  Autoscale, Ingress, Route, Service, Ha
-* **Rbac, Redis, Kustomize, Grafana, SSO, OIDC **
+* **Rbac, Redis, Kustomize, Grafana, SSO, OIDC**
 
